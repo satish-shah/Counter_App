@@ -7,6 +7,7 @@ class Counters extends Component {
     console.log("prevState", prevState);
     if (prevProps.counter.value !== this.props.counter.value) {
       //AJAX call and get the new value from ajax server
+      // AJAX Call
     }
   }
 
